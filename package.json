@@ -1,0 +1,29 @@
+{
+  "name": "pokemon-list-example-brunneralexander",
+  "version": "1.0.0",
+  "description": "In this exercise, you have to implement a website that uses a RESTful Web API in the background. You have to create the website from scratch without any initial templates to build on. Feel free to use prior homeworks or samples from the course material as a starting point.",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htl-perg-2018-19-4ahif/pokemon-list-example-BrunnerAlexander.git"
+  },
+  "author": "Alexander Brunner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htl-perg-2018-19-4ahif/pokemon-list-example-BrunnerAlexander/issues"
+  },
+  "homepage": "https://github.com/htl-perg-2018-19-4ahif/pokemon-list-example-BrunnerAlexander#readme",
+  "devDependencies": {
+    "@types/jquery": "^3.3.28",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "@types/node": "^10.12.17",
+    "browser-sync": "^2.26.3",
+    "jquery": "^3.3.1"
+  }
+}
